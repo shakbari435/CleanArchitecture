@@ -14,4 +14,4 @@ The above source code was created to fully understand the Clean Architecture and
 
 
 ## ScreenShot
-<img src="https://github.com/shakbari435/CleanArchitecture/blob/master/CleanArchitectureManifest.png" height="600" width="350">
+<img src="https://github.com/shakbari435/CleanArchitecture/blob/master/CleanArchitectureManifest.png">
