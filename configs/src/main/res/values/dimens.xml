@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_very_small">8sp</dimen>
+    <dimen name="text_9sp">9sp</dimen>
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_11sp">11sp</dimen>
+    <dimen name="text_normal">12sp</dimen>
+    <dimen name="text_13sp">13sp</dimen>
+    <dimen name="text_large">14sp</dimen>
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="text_x_large">16sp</dimen>
+    <dimen name="text_17sp">17sp</dimen>
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="text_19sp">19sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_25sp">25sp</dimen>
+
+
+    <dimen name="margin_72">72dp</dimen>
+    <dimen name="margin_64">64dp</dimen>
+    <dimen name="margin_56">56dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_34">34dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+
+    <dimen name="divider_1dp">1dp</dimen>
+    <dimen name="divider_2dp">2dp</dimen>
+
+
+    <dimen name="icon_size_36">36dp</dimen>
+    <dimen name="icon_size_32">32dp</dimen>
+    <dimen name="icon_size_24">24dp</dimen>
+    <dimen name="icon_size_16">16dp</dimen>
+    <dimen name="icon_size_18">18dp</dimen>
+
+</resources>
